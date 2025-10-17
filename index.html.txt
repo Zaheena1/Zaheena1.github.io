@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zaheena Anwar - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Zaheena Anwar</h1>
+        <p>Software Engineering Student | App Developer | Data Analyst</p>
+    </header>
+
+    <section class="profile">
+        <h2>Professional Profile</h2>
+        <p>I am a passionate and dedicated Software Engineering student with strong skills in app development, data analysis, and creative problem solving. I strive to create innovative, efficient, and user-focused solutions using modern technologies.</p>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Information</h2>
+        <ul>
+            <li><b>Email:</b> zaheenaanwar123@gmail.com</li>
+            <li><b>Phone:</b> 0330-0123456</li>
+            <li><b>Location:</b> Rawalpindi, Pakistan</li>
+            <li><b>GitHub:</b> <a href="https://github.com/Zaheena1" target="_blank">github.com/Zaheena1</a></li>
+        </ul>
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <ul>
+            <li><b>BS Software Engineering</b> – Fatima Jinnah Women University (2023–2027)</li>
+            <li><b>F.Sc Pre-Engineering</b> – Punjab Group of Colleges</li>
+            <li><b>Matric (Science Group)</b> – Emalah Foundation School and College</li>
+        </ul>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>C++ Programming</li>
+            <li>Problem Solving</li>
+            <li>Communication Skills</li>
+            <li>HTML, CSS</li>
+            <li>Git & GitHub</li>
+            <li>SQL & Power BI</li>
+            <li>Database Systems</li>
+            <li>Operating Systems</li>
+            <li>Data Analysis</li>
+        </ul>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <ul>
+            <li>Database Management System – C++ based client management system.</li>
+            <li>Personal Portfolio Website – Built using HTML, CSS, and GitHub Pages.</li>
+            <li>Crime Report Analyzer – SQL and Power BI dashboard for data analysis.</li>
+        </ul>
+    </section>
+
+    <section class="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>“Introduction to Data Analytics” – Coursera (2024)</li>
+            <li>“Web Development Fundamentals” – Udemy (2023)</li>
+            <li>“Git & GitHub Essentials” – FreeCodeCamp (2025)</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2025 Zaheena Anwar. All rights reserved.</p>
+    </footer>
+</body>
+</html>
